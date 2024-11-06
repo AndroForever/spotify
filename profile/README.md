@@ -24,6 +24,8 @@ Saltos de Canción Ilimitados
 La versión gratuita limita la cantidad de saltos de canciones por hora, pero con el APK premium puedes saltar canciones sin restricciones.
 Alta Calidad de Audio
 
+#
+
 Disfruta de una calidad de sonido superior con la opción de escuchar en alta calidad, algo que la versión gratuita no permite.
 Acceso a Toda la Biblioteca
 
