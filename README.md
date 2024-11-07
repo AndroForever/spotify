@@ -3,9 +3,9 @@
 
 **Spotify Premium APK** es una versión modificada de la aplicación oficial de Spotify que desbloquea características premium para usuarios de Android sin costo alguno. Esto permite a los usuarios disfrutar de una experiencia sin anuncios, escucha offline y más. Sin embargo, descargar y usar este APK puede violar los términos de servicio de Spotify y presentar riesgos para su dispositivo.
 
-![Spotify Image 1](![image](https://github.com/user-attachments/assets/4941114f-602a-429a-815d-e3a613fb200f))
-![Spotify Image 2](![image](https://github.com/user-attachments/assets/9cd36024-5932-4eb4-a8e6-95fbf7d22f9d))
-![Spotify Image 3](![image](https://github.com/user-attachments/assets/ffc8f3fd-d79c-412f-be62-58e6047b6cb3))
+![Spotify Image 1](https://spotiwire.com/wp-content/uploads/Spotify-Vanced-Discover-New-Music.webp)
+![Spotify Image 2](IMAGE_URL_HERE)
+![Spotify Image 3](IMAGE_URL_HERE)
 
 ## Información de Descarga
 
